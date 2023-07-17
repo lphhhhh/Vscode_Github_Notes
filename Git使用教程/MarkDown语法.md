@@ -18,7 +18,8 @@ print("helloworld")
 5.  超链接
    [链接名称](链接地址)
 6. 图片
-  ![nihao](image-1.png)
+    cltr+alt+v:保存到Images中
+    ![](Images/20230717065823.png)
 
 
 ## 三、数学公式(ctrl+m)(补全)
@@ -75,6 +76,7 @@ print("helloworld")
    $\begin{bmatrix} 1&2&3 \\ 4&5&5 \\ 7&8&9 \\\end{bmatrix}$
 
 ## 快捷键
+
 1. Ctrl + Z,：撤销
 Ctrl + Shift + Z： 反撤销
 Shift + ← ：向左选中一个字符
@@ -91,11 +93,19 @@ Ctrl + Shift + Alt + E 计算当前选中表达式, 用等号连接并输出
 Ctrl + Shift + Alt + R 计算当前选中表达式, 并替换当前选中表达式
 Ctrl + Shift + Alt + D 定义当前选中表达式, 无输出
 
+## Markdown高级用法
+1. 目录
+   [TOC]
+2. 
+```python
+print('helloworld')
+```
+
 ## 背诵
 
 1. 符号
-![Alt text](image.png)
-2. $$
+![](Images/20230717065913.png)
+1. $$
 **  ➡  \cdot\\
 xx  ➡  \times\\
 otimes  ➡  \otimes\\
@@ -131,6 +141,7 @@ Xbf  =>  \mathbf{X}\\
 Xcal  =>  \mathcal{X}\\
 Xfrak  =>  \mathfrak{X}\\
 $$
+
 
 
 
