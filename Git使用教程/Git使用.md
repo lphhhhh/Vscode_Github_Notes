@@ -10,7 +10,7 @@ git config --global --list  //查看用户名和邮箱
 
 
 
-# 二、新建仓库（Repository   Repo)
+# 二、新建仓库(Repository   Repo)
 
 1. 找到一个合适的位置创建一个空仓库
 
@@ -67,3 +67,11 @@ git log  //查找提交
 5. 查看仓库状态，此时仓库中之前在暂存区的文件应该已经不见了，因为已经被提交了
 6. change——first
 7. change__second
+
+
+
+# 总结
+1. 每次写完笔记（更改）
+2. git add . 
+3. git commit -m "注释"
+4. git push Vscode_Github_Notes master
