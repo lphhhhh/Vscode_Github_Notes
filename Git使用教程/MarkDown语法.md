@@ -77,21 +77,33 @@ print("helloworld")
 
 ## 快捷键
 
-1. Ctrl + Z,：撤销
-Ctrl + Shift + Z： 反撤销
+Ctrl + Z,：撤销 
+
+ Ctrl + Shift + Z： 反撤销
+
 Shift + ← ：向左选中一个字符
+
 Shift + → ：向右选中一个字符
+
 Ctrl + Shift + →： 向右选中一个单词
+
 Ctrl + Shift + ←： 向左选中一个单词
+
 Shift + Alt + ↑ 向上复制当前行或选中多行
+
 Shift + Alt + ↓ 向下复制当前行或选中多行
+
 Alt + ↑ 向上移动当前行或选中多行
+
 Alt + ↓ 向下移动当前行或选中多行
 
 ## 计算器
 Ctrl + Shift + Alt + E 计算当前选中表达式, 用等号连接并输出
+
 Ctrl + Shift + Alt + R 计算当前选中表达式, 并替换当前选中表达式
+
 Ctrl + Shift + Alt + D 定义当前选中表达式, 无输出
+
 
 ## Markdown高级用法
 1. 目录
@@ -104,38 +116,71 @@ Ctrl + Shift + Alt + D 定义当前选中表达式, 无输出
 ![](Images/20230717065913.png)
 1. 
 **  ➡  $\cdot$
+
 xx  ➡  $\times$
+
 otimes  ➡  $\otimes$
+
 <=  ➡  $\le$
+
 !=  ➡  $\neq$
+
 ==  ➡  $\equiv$
+
 ~~  ➡  $\thickapprox$
+
 sim  ➡  $\sim$
+
 land  ➡  $\land$
+
 lor  ➡ $\lor$
+
 bec  ➡  $\because$
+
 thr  ➡  $\therefore$
+
 EE  ➡  $\exists$
+
 AA  ➡  $\forall$
+
 inn  ➡  $\in$
+
 sse  ➡  $\subseteq$
+
 cap  ➡  $\cap$
+
 cup  ➡  $\cup$
+
 empty  ➡  $\empty$
+
 oo  ➡  $\infty$
+
 lim  ➡  $\lim_{<n> \to <\infty>}$
+
 dd  ➡  $\mathrm{d}$
+
 part  ➡  $\frac{\partial <V>}{\partial <x>}$
+
 Delta  ➡  $\Delta$
+
 nabla  ➡  $\nabla$
+
 ...  ➡  $\cdots$
+
 txt  =>  $\text{...}$
+
 xbar  =>  $\bar{x}$
+
 xhat  =>  $\hat{x}$
+
 xhvec  =>  $\vec{x}$
+
 xhdot  =>  $\dot{x}$
+
 Xbf  =>  $\mathbf{X}$
+
 Xcal  =>  $\mathcal{X}$
+
 Xfrak  =>  $\mathfrak{X}$
 
 
