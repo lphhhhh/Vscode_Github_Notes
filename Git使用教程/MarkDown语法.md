@@ -96,51 +96,48 @@ Ctrl + Shift + Alt + D 定义当前选中表达式, 无输出
 ## Markdown高级用法
 1. 目录
    [TOC]
-2. 
-```python
-print('helloworld')
-```
+
 
 ## 背诵
 
 1. 符号
 ![](Images/20230717065913.png)
-1. $$
-**  ➡  \cdot\\
-xx  ➡  \times\\
-otimes  ➡  \otimes\\
-<=  ➡  \le\\
-!=  ➡  \neq\\
-==  ➡  \equiv\\
-~~  ➡  \thickapprox\\
-sim  ➡  \sim\\
-land  ➡  \land\\
-lor  ➡ \lor\\
-bec  ➡  \because\\
-thr  ➡  \therefore\\
-EE  ➡  \exists\\
-AA  ➡  \forall\\
-inn  ➡  \in\\
-sse  ➡  \subseteq\\
-cap  ➡  \cap\\
-cup  ➡  \cup\\
-empty  ➡  \empty\\
-oo  ➡  \infty\\
-lim  ➡  \lim_{<n> \to <\infty>}\\
-dd  ➡  \mathrm{d}\\
-part  ➡  \frac{\partial <V>}{\partial <x>}\\
-Delta  ➡  \Delta\\
-nabla  ➡  \nabla\\
-...  ➡  \cdots\\
-txt  =>  \text{...}\\
-xbar  =>  \bar{x}\\
-xhat  =>  \hat{x}\\
-xhvec  =>  \vec{x}\\
-xhdot  =>  \dot{x}\\
-Xbf  =>  \mathbf{X}\\
-Xcal  =>  \mathcal{X}\\
-Xfrak  =>  \mathfrak{X}\\
-$$
+1. 
+**  ➡  $\cdot$
+xx  ➡  $\times$
+otimes  ➡  $\otimes$
+<=  ➡  $\le$
+!=  ➡  $\neq$
+==  ➡  $\equiv$
+~~  ➡  $\thickapprox$
+sim  ➡  $\sim$
+land  ➡  $\land$
+lor  ➡ $\lor$
+bec  ➡  $\because$
+thr  ➡  $\therefore$
+EE  ➡  $\exists$
+AA  ➡  $\forall$
+inn  ➡  $\in$
+sse  ➡  $\subseteq$
+cap  ➡  $\cap$
+cup  ➡  $\cup$
+empty  ➡  $\empty$
+oo  ➡  $\infty$
+lim  ➡  $\lim_{<n> \to <\infty>}$
+dd  ➡  $\mathrm{d}$
+part  ➡  $\frac{\partial <V>}{\partial <x>}$
+Delta  ➡  $\Delta$
+nabla  ➡  $\nabla$
+...  ➡  $\cdots$
+txt  =>  $\text{...}$
+xbar  =>  $\bar{x}$
+xhat  =>  $\hat{x}$
+xhvec  =>  $\vec{x}$
+xhdot  =>  $\dot{x}$
+Xbf  =>  $\mathbf{X}$
+Xcal  =>  $\mathcal{X}$
+Xfrak  =>  $\mathfrak{X}$
+
 
 
 
