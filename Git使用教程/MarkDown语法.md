@@ -18,9 +18,8 @@ print("helloworld")
 5.  超链接
    [链接名称](链接地址)
 6. 图片
-    cltr+alt+v:保存到Images中
-    ![](Images/20230718094159.png)
-    
+   1. cltr+alt+v:保存到Images中
+   2. 图床 -- 复制http链接 -- 直接复制到md文件
     <img src="https://img1.imgtp.com/2023/07/18/lxEomf8h.png" alt="1689687748665.png" title="1689687748665.png" />
 
 
