@@ -117,8 +117,8 @@ Ctrl + Shift + Alt + D 定义当前选中表达式, 无输出
 ## 背诵
 
 1. 符号
-![](Images/20230717065913.png)
-1. 
+<img src="https://img1.imgtp.com/2023/07/18/hpHV18L0.png" alt="1689688726861.png" title="1689688726861.png" />
+2. 
 **  ➡  $\cdot$
 
 xx  ➡  $\times$
@@ -169,13 +169,13 @@ Delta  ➡  $\Delta$
 
 nabla  ➡  $\nabla$
 
-xbar  =>  $\bar{x}$
+xhar  =>  $\bar{x}$
 
 xhat  =>  $\hat{x}$
 
 xhvec  =>  $\vec{x}$
 
-xhdot  =>  $\dot{x}$
+xdot  =>  $\dot{x}$
 
 
 3

@@ -61,11 +61,11 @@
 60. Δ： 
 61. Ω： 
 62. Φ： 
-63. ![](Images/20230718053525.png)： 
+63. <img src="https://img1.imgtp.com/2023/07/18/en9JXFF0.png" alt="1689688940056.png" title="1689688940056.png" />
 64. 派： 
-65. ![](Images/20230718053625.png)： 
-66. ![](Images/20230718053705.png)： 
-67. ![](Images/20230718053737.png)： 
+65. <img src="https://img1.imgtp.com/2023/07/18/jeAgNk5Z.png" alt="1689689264474.png" title="1689689264474.png" />
+66. <img src="https://img1.imgtp.com/2023/07/18/dYYwxlrJ.png" alt="1689689277902.png" title="1689689277902.png" /> 
+67. <img src="https://img1.imgtp.com/2023/07/18/a6C5i7sV.png" alt="1689689302277.png" title="1689689302277.png" />
 68. 左箭头： 
 69. 右箭头： 
 70. 右推导： 
@@ -73,4 +73,4 @@
 72. 加减： 
 73. 对数，计算： 
 74. 封闭积分： 
-75. 角30： 
+ 
