@@ -19,7 +19,10 @@ print("helloworld")
    [链接名称](链接地址)
 6. 图片
     cltr+alt+v:保存到Images中
-    ![](Images/20230717065823.png)
+    ![](Images/20230718094159.png)
+    
+    <img src="https://img1.imgtp.com/2023/07/18/lxEomf8h.png" alt="1689687748665.png" title="1689687748665.png" />
+
 
 
 ## 三、数学公式(ctrl+m)(补全)
@@ -167,10 +170,6 @@ Delta  ➡  $\Delta$
 
 nabla  ➡  $\nabla$
 
-...  ➡  $\cdots$
-
-txt  =>  $\text{...}$
-
 xbar  =>  $\bar{x}$
 
 xhat  =>  $\hat{x}$
@@ -179,13 +178,8 @@ xhvec  =>  $\vec{x}$
 
 xhdot  =>  $\dot{x}$
 
-Xbf  =>  $\mathbf{X}$
 
-Xcal  =>  $\mathcal{X}$
-
-Xfrak  =>  $\mathfrak{X}$
-
-
+3
 
 
 
