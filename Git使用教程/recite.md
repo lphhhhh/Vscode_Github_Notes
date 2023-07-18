@@ -12,13 +12,6 @@ x+1\\
 y+1 \\
 \end{aligned}$
 
-1.  式子右对齐：\$\$+ali: $$
-\begin{aligned}
-x+1\\
-y+1 \\
-\end{aligned}
-$$ 
-
 1.  方程组+等号对齐：case:  $\begin{cases} x+y &=5  \\ x-y+z &=7  \end{cases}$
 2.  矩阵(matrix矩阵）：bmat3: $\begin{bmatrix} 1 & 4 & 6 \\ 1 & 5 & 4 \\ 6 & 7 & 9 \\\end{bmatrix}$
 3.  行列式： vamt3: $\begin{vmatrix} 3 & 5 & 7 \\ 8 & 9 & 7 \\ 6 & 5 & 9 \\\end{vmatrix}$
