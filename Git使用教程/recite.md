@@ -75,11 +75,13 @@ y+1 \\
 60. 长右箭头：longrightarrow: $\longrightarrow$ 
 61. 右推导：Rightarrow: $\Rightarrow$ 
 62. 左推导：Leftarrow: $\Leftarrow$
-63. 加减： pm: $\pm$     //plus minus
-64. 对数，计算： $\log_2 8 = 3$
-65. 封闭积分： oint: $\oint$
-66. 小空格： \,:$a\,b$
-67. 大空格： \quad: $a\quad b$
-68. 大大空格： qquad:$a\qquad b$ 
-69. 补全代码选择：tab
+63. 双向:Leftrightarrow: $\Leftrightarrow$
+64. 不能推导:nRightarrow: $\nRightarrow$
+65. 加减： pm: $\pm$     //plus minus
+66. 对数，计算： $\log_2 8 = 3$
+67. 封闭积分： oint: $\oint$
+68. 小空格： \,:$a\,b$
+69. 大空格： \quad: $a\quad b$
+70. 大大空格： qquad:$a\qquad b$ 
+71. 补全代码选择：tab
 
