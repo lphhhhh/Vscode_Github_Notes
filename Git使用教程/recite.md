@@ -84,4 +84,12 @@ y+1 \\
 69. 大空格： \quad: $a\quad b$
 70. 大大空格： qquad:$a\qquad b$ 
 71. 补全代码选择：tab
+72. 取心邻域：\mathring{U}：$\mathring{U}$
+
+
+
+
+
+
+
 
