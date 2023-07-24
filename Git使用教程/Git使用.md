@@ -80,5 +80,5 @@ git log  //查找提交
 # 总结
 1. 每次写完笔记（更改）
 2. git add . 
-3. git commit -m "注释"
+3. git commit -m "Update"
 4. git push Vscode_Github_Notes master
